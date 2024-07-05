@@ -1,0 +1,15 @@
+
+                                                ____  _     ___ _____   __  __    _    ____ _   _ ___ _   _ _____
+                                               / ___|| |   / _ \_   _| |  \/  |  / \  / ___| | | |_ _| \ | | ____|
+                                               \___ \| |  | | | || |   | |\/| | / _ \| |   | |_| || ||  \| |  _|
+                                                ___) | |__| |_| || |   | |  | |/ ___ \ |___|  _  || || |\  | |___
+                                               |____/|_____\___/ |_|   |_|  |_/_/   \_\____|_| |_|___|_| \_|_____|
+
+
+
+                                      ~ Slot Machine is a single-player game where you spin reels containing various symbols.
+                                     The objective is to align the symbols in specific combinations across the machine's payline.
+                                        Each spin either results in a win or a loss based on the combination of symbols.
+
+
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713777054 source:c:\users\owner\desktop\pbl\audioon\untitled1.cpp
+	<mmsystem.h>
+	<iostream>
+	<string>
+
+1713778480 source:c:\users\owner\desktop\pbl\audioon\musiclibrary.cpp
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<string>
+
